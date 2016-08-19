@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"提交第一个版本");
     
+    NSLog(@"about");
+    
 }
 
 -(void)getinfor:(id)sender
