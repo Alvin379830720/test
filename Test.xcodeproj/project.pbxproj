@@ -37,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		0BA3D616D3167C5AAFA0925B /* libPods-Test.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Test.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		161ABF551FC3FD16000E5509 /* aaaa.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = aaaa.h; sourceTree = "<group>"; };
 		161C4A1F1FBC20CA00813158 /* normal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = normal.jpg; sourceTree = "<group>"; };
 		16429EAD1EC2BF1B00BB85DA /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16429EB11EC2BF1B00BB85DA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -129,6 +130,7 @@
 				16429EB71EC2BF1B00BB85DA /* ViewController.m */,
 				16979D2C1ED7C70500C8215C /* ShowViewController.h */,
 				16979D2D1ED7C70500C8215C /* ShowViewController.m */,
+				161ABF551FC3FD16000E5509 /* aaaa.h */,
 				16DE0C2C1EE8FA7700349441 /* normal.jpg */,
 				16429EB91EC2BF1B00BB85DA /* Main.storyboard */,
 				16429EBC1EC2BF1B00BB85DA /* Assets.xcassets */,
