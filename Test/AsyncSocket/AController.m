@@ -49,6 +49,7 @@
     
 //    [self performSelector:@selector(testWith:) withObject:@"aaa" afterDelay:3];
 //    NSLog(@"线程结束");mmm
+//    NSLog(@"线程结束");jjjj
 
     
     NSString *filePath=@"http://www.wuyuancloud.com//a02c369d54cb/20171115090809047WVHO0926.MOV";
