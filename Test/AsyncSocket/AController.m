@@ -58,7 +58,6 @@
     
     NSString *fileStr = [tmpDir stringByAppendingPathComponent:@"20171115090809047WVHO0926.MOV"];
     
-//    UIImage *image=[UIImage imageWithData:imageData];
 //    UIImageWriteToSavedPhotosAlbum(image, nil, nil, nil);
     [[NSFileManager defaultManager]createFileAtPath:fileStr contents:videoData attributes:nil];
     
