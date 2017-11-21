@@ -48,7 +48,7 @@
 //    [self performSelectorOnMainThread:@selector(testWith:) withObject:@"bbb" waitUntilDone:YES];
     
 //    [self performSelector:@selector(testWith:) withObject:@"aaa" afterDelay:3];
-//    NSLog(@"线程结束");
+//    NSLog(@"线程结束");nnnnn
 
     
     NSString *filePath=@"http://www.wuyuancloud.com//a02c369d54cb/20171115090809047WVHO0926.MOV";
