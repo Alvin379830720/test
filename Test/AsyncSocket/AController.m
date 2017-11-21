@@ -55,7 +55,7 @@
     NSURL *url=[NSURL URLWithString:filePath];
     NSData *videoData=[NSData dataWithContentsOfURL:url];
     NSString *tmpDir = NSTemporaryDirectory();
-    NSString *a=@"abcdefgh";
+    NSString *a=@"abcde";
     
     NSString *fileStr = [tmpDir stringByAppendingPathComponent:@"20171115090809047WVHO0926.MOV"];
     
